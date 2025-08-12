@@ -1,4 +1,4 @@
-# -1Project: PHP Simulated Gaming App (Auth + Profile + Game Simulator)
+demoProject: PHP Simulated Gaming App (Auth + Profile + Game Simulator)
 
 This single-file project bundle contains a minimal, legal demo web app written in plain PHP using SQLite for storage. It provides:
 
